@@ -61,7 +61,7 @@ $ npm start
 
 ## Acknowledgement
 
-* This project is part of the online course i have taken.
+* This small project is part of the online course i have taken.
 * The express purpose is to practice my skill in fullstack web development!
 
 
